@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 public class Dongu {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 public class SekilAzaltma {
     public static void main(String[] args) {

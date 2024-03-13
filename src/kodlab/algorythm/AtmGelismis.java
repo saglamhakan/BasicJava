@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

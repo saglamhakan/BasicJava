@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 
 public class AsalSayi {

@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 import java.util.Scanner;
 

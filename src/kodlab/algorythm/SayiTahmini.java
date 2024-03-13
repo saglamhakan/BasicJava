@@ -1,4 +1,4 @@
-package kodlab;
+package kodlab.algorythm;
 
 import javax.swing.*;
 import java.util.Scanner;
